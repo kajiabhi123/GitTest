@@ -7,4 +7,12 @@
         android:layout_height="wrap_content"
         android:text="prem boka" />
 
+    <TextView
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:text="Manjil second boka"
+        android:textSize="31sp"
+        android:textColor="#500ed6"/>
 </LinearLayout>
